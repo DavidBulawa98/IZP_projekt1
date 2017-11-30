@@ -1,3 +1,7 @@
+/**
+* autor: David Bulawa
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
